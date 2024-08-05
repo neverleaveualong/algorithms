@@ -17,6 +17,5 @@ This repository provides a collection of algorithms implemented in C++. Each alg
   - Merge Sort
   - Quick Sort
 
-##woohyunsim
 
 
