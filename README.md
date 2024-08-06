@@ -12,6 +12,7 @@ This repository provides a collection of algorithms implemented in C++. Each alg
 
 - Linear Search
 - Binary Search(recursive+)
+  - Hanoi tower problem
 - Sorting Algorithms
   - Bubble Sort
   - Merge Sort
